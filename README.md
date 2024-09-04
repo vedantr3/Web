@@ -68,7 +68,7 @@
     <section id="contact">
         <h2>Contact Me</h2>
         <p>
-            If you'd like to get in touch, please feel free to reach out via email at vartikashah27@gmail.com or connect with me on LinkedIn. I'm always open to discussing new opportunities, collaborations, or just having a chat about the industry.
+            If you'd like to get in touch, please feel free to reach out via email at vedantr22@gmail.com or connect with me on LinkedIn. I'm always open to discussing new opportunities, collaborations, or just having a chat about the industry.
         </p>
     </section>
 
@@ -85,4 +85,4 @@
     </script>
 
 </body>
-</html>
+</html>	
